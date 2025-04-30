@@ -1,3 +1,6 @@
 [submodule "Sample"]
 	path = Sample
 	url = https://github.com/rohithzacharias/sample.git
+[submodule "SamplRepo"]
+	path = SamplRepo
+	url = https://github.com/rohithzacharias/Sample-Repository.git
